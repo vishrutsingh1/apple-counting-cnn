@@ -97,11 +97,3 @@ The datasets are not included in this repository.
 - **MinneApple** (Häni, Roy & Isler): counting split with 64,595 training, 3,395 validation and 2,875 test crops, labelled 0–6. Available from the MinneApple project page.
 - **Dataset 2**: Roboflow *Apple detection* dataset (CC BY 4.0). Its full-tree test images have YOLO box labels, and a 429-crop counting subset was hand-labelled for this project. The demo image in `assets/demo/` comes from this dataset.
 
-## Project context
-
-This was a five-person group project in the MSc Robotics Machine Vision module at the Bristol Robotics Laboratory. My part was:
-- implementing, training and tuning the CNN, including the ablation runs
-- integrating the segmentation stage with the CNN
-- writing the evaluation and metrics code
-
-The superpixel segmentation and colour calibration were built together with my teammates.
