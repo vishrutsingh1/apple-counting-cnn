@@ -1,0 +1,25 @@
+# Model weights (published as a GitHub Release instead)
+weights/
+*.h5
+*.keras
+*.ckpt*
+
+# Datasets
+data/
+*.zip
+
+# Outputs
+results/
+checkpoints/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+__MACOSX/

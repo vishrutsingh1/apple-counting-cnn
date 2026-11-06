@@ -1,0 +1,6 @@
+tensorflow>=2.15
+opencv-contrib-python>=4.8   # needs cv2.ximgproc for SLIC
+numpy
+scikit-learn
+matplotlib
+seaborn
